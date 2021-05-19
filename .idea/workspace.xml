@@ -4,6 +4,7 @@
     <list default="true" id="429170e4-e1b8-43e2-be86-80ba5ab28adb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/hello.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/poke2.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
       <updated>1621255824760</updated>
       <workItem from="1621255826709" duration="12940000" />
       <workItem from="1621321292865" duration="17443000" />
-      <workItem from="1621407889758" duration="9340000" />
+      <workItem from="1621407889758" duration="18332000" />
     </task>
     <servers />
   </component>
